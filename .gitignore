@@ -1,0 +1,19 @@
+# Archivos de Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Archivos temporales
+*.tmp
+*.temp
+~$*
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
